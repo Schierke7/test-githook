@@ -1,0 +1,19 @@
+{
+  "name": "test-githook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cp ./hooks/commit-msg ./.git/hooks/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schierke7/test-githook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schierke7/test-githook/issues"
+  },
+  "homepage": "https://github.com/Schierke7/test-githook#readme"
+}
